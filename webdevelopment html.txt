@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lighthearted Lounge - VIT Pune</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background: #121212; color: white; text-align: center;">
+
+    <!-- Header -->
+    <header style="background: #ff4d4d; padding: 20px; font-size: 24px; font-weight: bold;">
+        Lighthearted Lounge - VIT Pune
+    </header>
+
+    <!-- Navigation -->
+    <nav style="background: #222; padding: 10px;">
+        <a href="#about" style="color: #ff4d4d; text-decoration: none; padding: 15px;">About</a>
+        <a href="#events" style="color: #ff4d4d; text-decoration: none; padding: 15px;">Events</a>
+        <a href="#standup" style="color: #ff4d4d; text-decoration: none; padding: 15px;">Stand-Up</a>
+        <a href="#singing" style="color: #ff4d4d; text-decoration: none; padding: 15px;">Singing</a>
+        <a href="#contact" style="color: #ff4d4d; text-decoration: none; padding: 15px;">Contact</a>
+    </nav>
+
+    <!-- Hero Section -->
+    <div style="background: url('https://source.unsplash.com/1600x900/?microphone,concert') no-repeat center center/cover; height: 400px; display: flex; align-items: center; justify-content: center; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 10px black;">
+        🎤 Experience the Best of Comedy, Singing & More! 🎶
+    </div>
+
+    <!-- About Section -->
+    <section id="about" style="padding: 50px 20px;">
+        <h2>About Us</h2>
+        <p>Welcome to Lighthearted Lounge, VIT Pune’s official Open Mic Club! A space where laughter meets melody, and creativity shines. We provide a stage for comedians, musicians, poets, and storytellers to showcase their talent.</p>
+    </section>
+
+    <!-- Events Section -->
+    <section id="events" style="padding: 50px 20px;">
+        <h2>Upcoming Events</h2>
+        <div style="background: #1e1e1e; padding: 20px; margin: 20px auto; width: 80%; border-radius: 10px;">
+            <h3>🎤 Open Mic Night</h3>
+            <p>📅 Date: 10th February 2025</p>
+            <p>📍 Venue: College Auditorium</p>
+            <p>🎭 Come perform or enjoy the vibe!</p>
+        </div>
+    </section>
+
+    <!-- Stand-Up Comedy Section -->
+    <section id="standup" style="padding: 50px 20px;">
+        <h2>😂 Stand-Up Comedy</h2>
+        <p>Get ready to laugh out loud as our talented comedians take the stage with hilarious jokes and witty punchlines. Whether you're a performer or an audience member, fun is guaranteed!</p>
+        <div style="background: #1e1e1e; padding: 20px; margin: 20px auto; width: 80%; border-radius: 10px;">
+            <h3>🔥 Comedy Night Special</h3>
+            <p>🎙 Host: John Doe</p>
+            <p>📅 Date: 18th February 2025</p>
+            <p>📍 Venue: College Amphitheater</p>
+        </div>
+    </section>
+
+    <!-- Singing Section -->
+    <section id="singing" style="padding: 50px 20px;">
+        <h2>🎵 Singing Performances</h2>
+        <p>Experience the magic of live music! From soulful ballads to energetic rock performances, our open mic welcomes singers of all genres.</p>
+        <div style="background: #1e1e1e; padding: 20px; margin: 20px auto; width: 80%; border-radius: 10px;">
+            <h3>🎶 Music Night</h3>
+            <p>🎤 Special Performance by Jane Doe</p>
+            <p>📅 Date: 25th February 2025</p>
+            <p>📍 Venue: Student Hall</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" style="padding: 50px 20px;">
+        <h2>📞 Contact Us</h2>
+        <p>📧 Email: lightheartedlounge@vitpune.ac.in</p>
+        <p>📱 Instagram: @lightheartedlounge_vit</p>
+    </section>
+
+    <!-- Footer -->
+    <footer style="background: #222; padding: 20px; font-size: 14px;">
+        &copy; 2025 Lighthearted Lounge | VIT Pune | Open Mic Club
+    </footer>
+
+</body>
+</html>
