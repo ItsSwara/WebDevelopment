@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lighthearted Lounge - VIT Pune</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        Lighthearted Lounge - VIT Pune
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#about">About</a>
+        <a href="#events">Events</a>
+        <a href="#standup">Stand-Up</a>
+        <a href="#singing">Singing</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        🎤 Experience the Best of Comedy, Singing & More! 🎶
+    </div>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to Lighthearted Lounge, VIT Pune’s official Open Mic Club! A space where laughter meets melody, and creativity shines. We provide a stage for comedians, musicians, poets, and storytellers to showcase their talent.</p>
+    </section>
+
+    <!-- Events Section -->
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <div class="event-card">
+            <h3>🎤 Open Mic Night</h3>
+            <p>📅 Date: 10th February 2025</p>
+            <p>📍 Venue: College Auditorium</p>
+            <p>🎭 Come perform or enjoy the vibe!</p>
+        </div>
+    </section>
+
+    <!-- Stand-Up Comedy Section -->
+    <section id="standup">
+        <h2>😂 Stand-Up Comedy</h2>
+        <p>Get ready to laugh out loud as our talented comedians take the stage with hilarious jokes and witty punchlines. Whether you're a performer or an audience member, fun is guaranteed!</p>
+        <div class="event-card">
+            <h3>🔥 Comedy Night Special</h3>
+            <p>🎙 Host: John Doe</p>
+            <p>📅 Date: 18th February 2025</p>
+            <p>📍 Venue: College Amphitheater</p>
+        </div>
+    </section>
+
+    <!-- Singing Section -->
+    <section id="singing">
+        <h2>🎵 Singing Performances</h2>
+        <p>Experience the magic of live music! From soulful ballads to energetic rock performances, our open mic welcomes singers of all genres.</p>
+        <div class="event-card">
+            <h3>🎶 Music Night</h3>
+            <p>🎤 Special Performance by Jane Doe</p>
+            <p>📅 Date: 25th February 2025</p>
+            <p>📍 Venue: Student Hall</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>📞 Contact Us</h2>
+        <p>📧 Email: lightheartedlounge@vitpune.ac.in</p>
+        <p>📱 Instagram: @lightheartedlounge_vit</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2025 Lighthearted Lounge | VIT Pune | Open Mic Club
+    </footer>
+
+</body>
+</html>
